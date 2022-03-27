@@ -11,6 +11,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 80f8f236-5c09-7550-7040-3328e6a08d0a
 resourcetype: Document
 title: midterm_lacey.pdf
 uid: 088cd5bf-bdfa-435c-27cc-25ffbe0275c1

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 15f9834d-c5af-8fe3-f746-68c9a82ae6d0
 resourcetype: Document
 title: propappleyard.pdf
 uid: 9811e432-f052-2999-09b8-fe2143d632cc
