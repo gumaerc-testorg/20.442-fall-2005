@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: The syllabus section includes course overview, prerequisites, grading
+  critria, and required text books.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -30,7 +32,7 @@ Required Textbook
 
 Branden, Carl, and John Tooze. _Introduction to Protein Structure._ 2nd ed. New York, NY: Routledge, 1999. ISBN: 9780815323051.
 
-To complement the textbook, students will read many papers from the scientific literature; and are encouraged to consult additional reference books listed in the [readings]({{< baseurl >}}/pages/readings) section.
+To complement the textbook, students will read many papers from the scientific literature; and are encouraged to consult additional reference books listed in the {{% resource_link 4a57ddf6-08bd-f0a3-6bee-3dc7af806ba8 "readings" %}} section.
 
 Coursework
 ----------

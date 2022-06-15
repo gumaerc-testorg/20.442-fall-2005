@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: The related resources includes references for additional resources in
+  the field of molecular structure of biological materials.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources
