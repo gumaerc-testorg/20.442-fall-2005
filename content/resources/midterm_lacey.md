@@ -8,6 +8,7 @@ file: /courses/20-442-molecular-structure-of-biological-materials-be-442-fall-20
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -18,4 +19,3 @@ uid: 088cd5bf-bdfa-435c-27cc-25ffbe0275c1
 ---
 This resource includes questions on structures of 20 L-amino acids and 4 nucleotides, basic characteristics of several secondary structural
 construction motifs, p helix, four-helix bundle, and X-ray crystallography
-

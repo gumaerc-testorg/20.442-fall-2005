@@ -6,6 +6,7 @@ file: /courses/20-442-molecular-structure-of-biological-materials-be-442-fall-20
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: propappleyard.pdf
 uid: 9811e432-f052-2999-09b8-fe2143d632cc
 ---
 This reaource includes information on Gallium Nitride, equipment and technology, supporting studies, and the summery and references.
-

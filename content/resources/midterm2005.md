@@ -6,6 +6,7 @@ file: /courses/20-442-molecular-structure-of-biological-materials-be-442-fall-20
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: midterm2005.pdf
 uid: b853f5a8-c64e-af73-4d8f-6ab45617bd42
 ---
 This resource includes questions on basic characteristic s of several secondary structural construction motifs and characteristic of coiled-coil?
-
