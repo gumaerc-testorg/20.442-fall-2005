@@ -105,13 +105,13 @@ Various Helical Rich Protein Structure Models
 Alpha-helices in Biological Materials
 {{< tdclose >}}
 {{< tdopen >}}
-Watson, J. D., and F. H. Crick. "{{% resource_link "2f0e86ee-06cc-4f4d-9d8f-480bad447689" "Molecular Structure of Nucleic Acids" %}}." _Nature_ 171, no. 4356 (April 25, 1953): 737-8.  
+Watson, J. D., and F. H. Crick. "[Molecular Structure of Nucleic Acids](http://dx.doi.org/10.1038/171737a0)." _Nature_ 171, no. 4356 (April 25, 1953): 737-8.  
   
 Sung, C. H., et al. "Crystal Structure of a Junction Between B-DNA and Z-DNA Reveals Two Extruded Bases." _Nature_ 437 (October 20, 2005): 1183-1186.  
   
 Sinden, R. R. "DNA Twists and Flips." _Nature_ 437 (October 20, 2005): 1097-1098.  
   
-{{% resource_link "9264e265-95ec-4118-8cea-e5746f6265b6" "Letter from J. D. Watson to L. Pauling" %}}, March 4, 1963.  
+[Letter from J. D. Watson to L. Pauling](http://scarc.library.oregonstate.edu/coll/pauling/dna/corr/sci9.001.51-watson-lp-19630304.html), March 4, 1963.  
   
 Pauling, L., et al. "The Structure of Proteins: Two Hydrogen-Bonded Helical Configurations of the Polypeptide Chain." _PNAS_ 37, no. 4 (April 15, 1951): 205-211.
 {{< tdclose >}}
@@ -475,7 +475,7 @@ Self-assembling Peptide Systems (Dr. Zhang's Research) (cont.)
 Applying Biomimicry to Nanotechnology (Guest Lecture by Andreas Mershin)
 {{< tdclose >}}
 {{< tdopen >}}
-Benyus, Janine. {{% resource_link "2d36fb7f-23a5-4fec-bd4b-5da98f4b963c" "Biomimicry Web site" %}}.  
+Benyus, Janine. [Biomimicry Web site](http://www.biomimicry.net/).  
   
 Robbins, J. "Second Nature: More and More, Innovative Scientists Are Turning to the Natural World for Inspiration&hellipand Design Solutions." _Smithsonian_ 33, no. 4 (July 2002): 78-82  
   
