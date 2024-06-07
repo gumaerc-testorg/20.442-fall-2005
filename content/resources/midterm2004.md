@@ -4,6 +4,7 @@ description: This resource includes questions on What is the structure of water 
   different temperatures, and molecular structures of silkworm silk and the spider
   silk.
 file: /courses/20-442-molecular-structure-of-biological-materials-be-442-fall-2005/029b424cad91bb6b718985fac23e0855_midterm2004.pdf
+file_size: 18494
 file_type: application/pdf
 learning_resource_types:
 - Exams
