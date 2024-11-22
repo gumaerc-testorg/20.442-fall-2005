@@ -2,26 +2,21 @@
 content_type: page
 description: The related resources includes references for additional resources in
   the field of molecular structure of biological materials.
+draft: false
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources
 uid: 460be76f-6b20-a5b8-80df-e04c87911356
 ---
-
 The links below are online references for additional resources in the field of molecular structure of biological materials. These range from professional societies that maintain links to areas that any reader can explore in this field. Many of the linked sites provide resources for further study, as well as downloadable resources that can be used for classroom teaching.
 
 [MIT Society for Biomaterials - Student Resources](http://web.mit.edu/sbm/www/students.htm)
 
-CHARMM Links
-------------
+## CHARMM Links
 
-[CHARMM](http://www.charmm.org/) is a program for macromolecular dynamics and mechanics.
+[CHARMM](https://academiccharmm.org/) is a program for macromolecular dynamics and mechanics.
 
 [CHARMM c28a2 Documentation](http://web.archive.org/web/20080820003210/http://www.lobos.nih.gov/Charmm/c28a2/)
-
-[CHARMM Example Input Files](https://www.charmmtutorial.org/index.php/Full_example)
-
-[CHARMM Tutori@l](https://www.charmmtutorial.org/index.php/CHARMM_Tutorial) - This tutorial provides a theoretical introduction to molecular dynamics simulations and practical examples using the CHARMM program.
 
 [Brooks Research Group at University of Michigan](https://brooks.chem.lsa.umich.edu/) is focused on the application of statistical mechanics, quantum chemistry and computational methods to chemically and physically oriented problems in biology.
 
@@ -29,8 +24,7 @@ CHARMM Links
 
 [University of Illinois - Theoretical Biophysics Group - VMD User's Guide](http://www.ks.uiuc.edu/Research/vmd/current/ug/ug.html) describes how to run and use the molecular visualization and analysis program.
 
-Online Databases
-----------------
+## Online Databases
 
 [Biotech Life Sciences Dictionary](http://life.nthu.edu.tw/~g864204/dict-search.html)
 
@@ -46,10 +40,9 @@ Online Databases
 
 [The Restriction Enzyme Database](http://rebase.neb.com/rebase/) from NEB.
 
-[Yale University Center for Structural Biology](http://www.csb.yale.edu/) houses X-ray equipment and computational resources for macromolecular structure determination.
+[Yale University Center for Structural Biology](https://medicine.yale.edu/structure/) houses X-ray equipment and computational resources for macromolecular structure determination.
 
-Online Journals
----------------
+## Online Journals
 
 [American Society for Microbiology Journals](http://journals.asm.org/) - The Society's 11 journals cover the spectrum of microbiology, from molecular and cellular biology to biomedical research and technology.
 
@@ -97,13 +90,11 @@ Online Journals
 
 [Science News Online](http://www.sciencenews.org/)
 
-Organizations
--------------
+## Organizations
 
 [Cold Spring Harbor Laboratory Meetings and Courses](https://meetings.cshl.edu/meetingshome.aspx) - The flagship of this program is the annual Symposium on Quantitative Biology.
 
-Resources
----------
+## Resources
 
 [The DNA Microarray Web site](http://en.wikipedia.org/wiki/DNA_microarray) - Basics on DNA microarray technology, and a list of academic and industrial links.
 
@@ -111,8 +102,7 @@ Resources
 
 [MIT Biopolymers Laboratory](http://web.mit.edu/biopolymers/www/) is a shared instrumentation service laboratory, funded by the Howard Hughes Medical Institute and the MIT Center for Cancer Research.
 
-Societies and Foundations
--------------------------
+## Societies and Foundations
 
 [Biophysical Society](http://www.biophysics.org/) encourages development and dissemination of knowledge in biophysics.
 
