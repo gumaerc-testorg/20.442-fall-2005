@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/20-442-molecular-structure-of-biological-materials-be-442-fall-2005/af7be9494447df34a7aa92090a4e3704_chp_be_442_sap.jpg
+file: /ol-ocw-studio-app/courses/20-442-molecular-structure-of-biological-materials-be-442-fall-2005/af7be9494447df34a7aa92090a4e3704_chp_be_442_sap.jpg
 file_size: 42752
 file_type: image/jpeg
 image_metadata:
