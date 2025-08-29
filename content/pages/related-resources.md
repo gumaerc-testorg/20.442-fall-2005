@@ -98,7 +98,7 @@ The links below are online references for additional resources in the field of m
 
 [The DNA Microarray Web site](http://en.wikipedia.org/wiki/DNA_microarray) - Basics on DNA microarray technology, and a list of academic and industrial links.
 
-[LabVelocity](http://velocitylaboratories.com/) - Products and services for scientists.
+[LabVelocity](https://www.trustmypaper.com/labvelocity) - Products and services for scientists.
 
 [MIT Biopolymers Laboratory](http://web.mit.edu/biopolymers/www/) is a shared instrumentation service laboratory, funded by the Howard Hughes Medical Institute and the MIT Center for Cancer Research.
 
